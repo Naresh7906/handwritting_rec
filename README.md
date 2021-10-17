@@ -4,7 +4,7 @@ The csv file contains image location and lable's.
 
 ## ML model used : SVM 
 ## Accuracy :
-    A-Z - ~~80.76%~~
+    A-Z - <del>80.76%</del>
     a-z - 63.98%
     0-9 - 73.63%
     All - 56.45%
