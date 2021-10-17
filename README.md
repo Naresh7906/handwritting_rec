@@ -10,6 +10,7 @@ The csv file contains image location and lable's.
     All - 56.45%
 
 dataset obtained from : https://www.kaggle.com/dhruvildave/english-handwritten-characters-dataset
+
 dataset citation :
 
     deCampos09,
